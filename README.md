@@ -30,5 +30,5 @@
 ![rng-q](https://github-readme-stats.vercel.app/api/top-langs?username=rng-q&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)
 
 
-<img src="img/gambar.jpg" height="502" alt="laravel logo"  />
+<img src="img/gambar.jpg" align="center" height="502" alt="laravel logo"  />
 
