@@ -22,7 +22,7 @@
 
 ####
 
-![rng-q's GitHub stats](https://github-readme-stats.vercel.app/api?username=haaw&show_icons=true&theme=radical)
+![rng-q's GitHub stats](https://github-readme-stats.vercel.app/api?username=vin-q&show_icons=true&theme=radical)
 
 ![rng-q](https://github-readme-stats.vercel.app/api/top-langs?username=rng-q&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)
 
